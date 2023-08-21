@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-router/static/css/main.f8a98057.css",
+    "main.js": "/mini-router/static/js/main.aecf8ff1.js",
+    "static/js/787.b90a4b1d.chunk.js": "/mini-router/static/js/787.b90a4b1d.chunk.js",
+    "index.html": "/mini-router/index.html",
+    "main.f8a98057.css.map": "/mini-router/static/css/main.f8a98057.css.map",
+    "main.aecf8ff1.js.map": "/mini-router/static/js/main.aecf8ff1.js.map",
+    "787.b90a4b1d.chunk.js.map": "/mini-router/static/js/787.b90a4b1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8a98057.css",
+    "static/js/main.aecf8ff1.js"
+  ]
+}
